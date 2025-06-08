@@ -117,7 +117,7 @@ This multi-step process ensures high-quality, relevant questions that align with
 
    - **Question Header**: Enter institutional information, exam details, and course information
 
-     - Example: "University of Technology - Midterm Examination - CS101: Introduction to Programming - Spring 2023"
+     - Example: "Brock University- Midterm Examination - COSC 1P02: Introduction to Programming - Spring 2023"
 
    - **Question Description**: Provide instructions and parameters for the question paper
      - Example: "Create a question paper with 5 multiple-choice questions (2 marks each), 3 short-answer questions (5 marks each), and 1 essay question (10 marks). Focus on Python basics and data structures."
